@@ -10,9 +10,9 @@ export default function Education() {
       color: 'border-amber-500',
     },
     {
-      institution: 'University of Kashmir',
-      degree: 'Bachelor of Technology - BTech',
-      field: 'Computer and Information Sciences and Support Services',
+      institution: 'KGP SRINAGAR',
+      degree: 'Diploma',
+      field: 'Computer Science Engineering',
       period: '',
       color: 'border-blue-500',
     },
